@@ -1,10 +1,1 @@
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
-# testCalc
+Тестовое задание.# testCalc
